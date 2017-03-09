@@ -7,9 +7,7 @@ Now that is done, we can start the configuration of the lab.  The script will d
 
  - Install the correct version of Azure RM and Azure Stack PowerShell
  - Install the Azure Stack Tools 
- - Add two images to the PIR
-       Windows Server 2016  (**)
-       Ubuntu
+ - Add two images to the PIR:  Windows Server 2016 / Ubuntu
  - Create plans, offers, and quotas with specific quotas aligned to offers and plans
  - Configure delegation plan and offer  You will need to add your users to delegation and subscriptions using the instructions here
  - Create a custom tag for use with the Server 2016 imageConfigure Marketplace Syndication 
